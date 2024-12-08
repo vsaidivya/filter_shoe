@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+
+.navbar{
+    padding: 10px 200px;
+    display: flex;
+    height: 45px;;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(170, 170, 170);
+}
+
+.input-btn{
+    height:20px;
+    width:250px;
+    padding-left: 10px;
+    background-color: rgb(242, 242, 242);
+    font-size: 0.7rem;
+    margin-left: 10px;
+    border: none;
+}
+
+.input-btn:active{
+    border: none;
+}
+
+.images> a{
+    margin: 0px 10px;
+    color: black;
+}

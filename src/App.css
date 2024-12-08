@@ -1,0 +1,24 @@
+.body{
+    display: flex
+}
+
+.Products{
+    padding: 10px 5px;
+}
+
+.main-page{
+    width:100%;
+}
+
+.Recommended{
+    height:50px;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+.Category{
+    border-right:1px solid rgb(152, 152, 152);
+    width: 16%;
+}
+
+

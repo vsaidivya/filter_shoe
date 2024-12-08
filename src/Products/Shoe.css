@@ -1,0 +1,47 @@
+.shoe{
+    padding: 20px;
+    border: 0.1px solid rgb(255, 255, 255);
+    box-shadow: 0.05px 0.05px 0.5px;
+}
+
+.shoe-title{
+    font-size:x-small;
+}
+
+.shoe-img{
+    padding-left: 5px;
+    height:60px;
+    width:90%;
+    margin-bottom: 7px;
+}
+
+.reviews-rating{
+    margin-top: 7px;
+    display: flex;
+    align-items: center;
+}
+
+.stars{
+    color:rgb(158, 158, 76);
+    font-size: xx-small;
+    margin-right: 7px;
+}
+
+.reviews{
+    font-size: x-small;
+}
+
+.price{
+    margin-top: 7px;
+    display: flex;
+}
+
+.prev-price{
+    font-size: xx-small;
+    text-decoration:line-through;
+    margin-right: 5px;
+}
+
+.new-price{
+    font-size: xx-small;
+}
